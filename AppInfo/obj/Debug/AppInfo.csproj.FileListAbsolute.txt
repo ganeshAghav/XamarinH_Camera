@@ -1,0 +1,14 @@
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\AppInfo.dll
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\AppInfo.pdb
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\SQLite.Net.dll
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Core.dll
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Core.xml
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Ganesh\Download\BlackFramework\AppInfo\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Ganesh\Download\BlackFramework\AppInfo\obj\Debug\AppInfo.csprojResolveAssemblyReference.cache
+F:\Ganesh\Download\BlackFramework\AppInfo\obj\Debug\AppInfo.dll
+F:\Ganesh\Download\BlackFramework\AppInfo\obj\Debug\AppInfo.pdb
